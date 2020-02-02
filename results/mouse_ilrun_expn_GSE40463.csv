@@ -1,0 +1,37 @@
+names,GEO,expn,isoform,Cell_type,genotype.variation,Assay.Type
+ENSMUST00000114863.8,GSM994535,3446,203,in vitro polarized T helper1 cells for 7 days,wild type,RNA-Seq
+ENSMUST00000114859.7,GSM994535,622,202,in vitro polarized T helper1 cells for 7 days,wild type,RNA-Seq
+ENSMUST00000075076.4,GSM994535,44,201,in vitro polarized T helper1 cells for 7 days,wild type,RNA-Seq
+ENSMUST00000114863.8,GSM994540,3604,203,in vitro polarized T helper2 cells for 7 days,Stat6<tm1> (Stat6KO),RNA-Seq
+ENSMUST00000114859.7,GSM994540,386,202,in vitro polarized T helper2 cells for 7 days,Stat6<tm1> (Stat6KO),RNA-Seq
+ENSMUST00000075076.4,GSM994540,123,201,in vitro polarized T helper2 cells for 7 days,Stat6<tm1> (Stat6KO),RNA-Seq
+ENSMUST00000114863.8,GSM994545,4276,203,in vitro polarized T helper2 cells for 5 days with control vector.,wild type,RNA-Seq
+ENSMUST00000114859.7,GSM994545,548,202,in vitro polarized T helper2 cells for 5 days with control vector.,wild type,RNA-Seq
+ENSMUST00000075076.4,GSM994545,76,201,in vitro polarized T helper2 cells for 5 days with control vector.,wild type,RNA-Seq
+ENSMUST00000114863.8,GSM994539,2523,203,in vitro polarized T helper2 cells for 7 days,wild type,RNA-Seq
+ENSMUST00000114859.7,GSM994539,404,202,in vitro polarized T helper2 cells for 7 days,wild type,RNA-Seq
+ENSMUST00000075076.4,GSM994539,41,201,in vitro polarized T helper2 cells for 7 days,wild type,RNA-Seq
+ENSMUST00000114863.8,GSM994543,4566,203,in vitro polarized T helper1 cells for 5 days with T-bet overexpression,wild type,RNA-Seq
+ENSMUST00000114859.7,GSM994543,774,202,in vitro polarized T helper1 cells for 5 days with T-bet overexpression,wild type,RNA-Seq
+ENSMUST00000075076.4,GSM994543,47,201,in vitro polarized T helper1 cells for 5 days with T-bet overexpression,wild type,RNA-Seq
+ENSMUST00000114863.8,GSM994546,5427,203,in vitro polarized T helper2 cells for 5 days with control vector.,Stat6<tm1> (Stat6KO),RNA-Seq
+ENSMUST00000114859.7,GSM994546,968,202,in vitro polarized T helper2 cells for 5 days with control vector.,Stat6<tm1> (Stat6KO),RNA-Seq
+ENSMUST00000075076.4,GSM994546,120,201,in vitro polarized T helper2 cells for 5 days with control vector.,Stat6<tm1> (Stat6KO),RNA-Seq
+ENSMUST00000114863.8,GSM994548,4877,203,in vitro polarized T helper2 cells for 5 days with Gata3 overexpression,Stat6<tm1> (Stat6KO),RNA-Seq
+ENSMUST00000114859.7,GSM994548,896,202,in vitro polarized T helper2 cells for 5 days with Gata3 overexpression,Stat6<tm1> (Stat6KO),RNA-Seq
+ENSMUST00000075076.4,GSM994548,73,201,in vitro polarized T helper2 cells for 5 days with Gata3 overexpression,Stat6<tm1> (Stat6KO),RNA-Seq
+ENSMUST00000114863.8,GSM994542,4989,203,in vitro polarized T helper1 cells for 5 days with control vector.,STAT4<tm1> (STAT4KO),RNA-Seq
+ENSMUST00000114859.7,GSM994542,1182,202,in vitro polarized T helper1 cells for 5 days with control vector.,STAT4<tm1> (STAT4KO),RNA-Seq
+ENSMUST00000075076.4,GSM994542,109,201,in vitro polarized T helper1 cells for 5 days with control vector.,STAT4<tm1> (STAT4KO),RNA-Seq
+ENSMUST00000114863.8,GSM994541,5385,203,in vitro polarized T helper1 cells for 5 days with control vector.,wild type,RNA-Seq
+ENSMUST00000114859.7,GSM994541,946,202,in vitro polarized T helper1 cells for 5 days with control vector.,wild type,RNA-Seq
+ENSMUST00000075076.4,GSM994541,99,201,in vitro polarized T helper1 cells for 5 days with control vector.,wild type,RNA-Seq
+ENSMUST00000114863.8,GSM994547,4552,203,in vitro polarized T helper2 cells for 5 days with Gata3 overexpression,wild type,RNA-Seq
+ENSMUST00000114859.7,GSM994547,524,202,in vitro polarized T helper2 cells for 5 days with Gata3 overexpression,wild type,RNA-Seq
+ENSMUST00000075076.4,GSM994547,105,201,in vitro polarized T helper2 cells for 5 days with Gata3 overexpression,wild type,RNA-Seq
+ENSMUST00000114863.8,GSM994544,4393,203,in vitro polarized T helper1 cells for 5 days with T-bet vector.,STAT4<tm1> (STAT4KO),RNA-Seq
+ENSMUST00000114859.7,GSM994544,802,202,in vitro polarized T helper1 cells for 5 days with T-bet vector.,STAT4<tm1> (STAT4KO),RNA-Seq
+ENSMUST00000075076.4,GSM994544,97,201,in vitro polarized T helper1 cells for 5 days with T-bet vector.,STAT4<tm1> (STAT4KO),RNA-Seq
+ENSMUST00000114863.8,GSM994536,3318,203,in vitro polarized T helper1 cells for 7 days,STAT4<tm1> (STAT4KO),RNA-Seq
+ENSMUST00000114859.7,GSM994536,501,202,in vitro polarized T helper1 cells for 7 days,STAT4<tm1> (STAT4KO),RNA-Seq
+ENSMUST00000075076.4,GSM994536,79,201,in vitro polarized T helper1 cells for 7 days,STAT4<tm1> (STAT4KO),RNA-Seq
